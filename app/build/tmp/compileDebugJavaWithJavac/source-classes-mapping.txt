@@ -1,0 +1,29 @@
+com/example/testa3lapplication/ADMHelper.java
+ com.example.testa3lapplication.ADMHelper
+com/example/testa3lapplication/SampleADMMessageReceiver.java
+ com.example.testa3lapplication.SampleADMMessageReceiver
+com/example/testa3lapplication/MainActivity.java
+ com.example.testa3lapplication.MainActivity
+ com.example.testa3lapplication.MainActivity$1
+com/example/testa3lapplication/databinding/FragmentSecondBinding.java
+ com.example.testa3lapplication.databinding.FragmentSecondBinding
+com/example/testa3lapplication/databinding/ActivityMainBinding.java
+ com.example.testa3lapplication.databinding.ActivityMainBinding
+com/example/testa3lapplication/databinding/FragmentFirstBinding.java
+ com.example.testa3lapplication.databinding.FragmentFirstBinding
+com/example/testa3lapplication/MyA3LMessagingService.java
+ com.example.testa3lapplication.MyA3LMessagingService
+com/example/testa3lapplication/SampleADMMessageHandler.java
+ com.example.testa3lapplication.SampleADMMessageHandler
+com/example/testa3lapplication/databinding/ContentMainBinding.java
+ com.example.testa3lapplication.databinding.ContentMainBinding
+com/example/testa3lapplication/SampleADMMessageHandlerJobBase.java
+ com.example.testa3lapplication.SampleADMMessageHandlerJobBase
+com/example/testa3lapplication/MyServerMsgHandler.java
+ com.example.testa3lapplication.MyServerMsgHandler
+ com.example.testa3lapplication.MyServerMsgHandler$1
+com/example/testa3lapplication/ADMSampleMD5ChecksumCalculator.java
+ com.example.testa3lapplication.ADMSampleMD5ChecksumCalculator
+ com.example.testa3lapplication.ADMSampleMD5ChecksumCalculator$UTF8CodeUnitStringComparator
+com/example/testa3lapplication/BuildConfig.java
+ com.example.testa3lapplication.BuildConfig
